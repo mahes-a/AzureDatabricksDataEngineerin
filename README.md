@@ -23,7 +23,7 @@ Repo to hold notebooks and data for Azure Databricks Data Engineering Training
 
 - Execute the DeltaLake-Create Data notebook followed by 01-Getting-Started-With-Delta-Lake and 02-Delta-Lake-Performance
 
-## How to set up Medallion Architecture
+## Medallion Architecture
 
 - Import the green_tripdata_2023-09.parquet and taxizonelookup.csv into DBFS
 
@@ -34,7 +34,7 @@ Repo to hold notebooks and data for Azure Databricks Data Engineering Training
   <img width="204" alt="image" src="https://github.com/mahes-a/AzureDatabricksDataEngineering/assets/120069348/1e1ad874-96f4-4724-84f7-2641270e69a7">
 
 
-## How to set up Delta Live Table Medallion Architecture
+## Delta Live Table with Medallion Architecture
 
 - Import the DeltaLiveTable.dbc into user folder
   
