@@ -39,6 +39,7 @@ Repo to hold notebooks and data for Azure Databricks Data Engineering Training
 - Import the DeltaLiveTable.dbc into user folder
   
 - Setup the DeltaLive table using below notebook
+
   <img width="397" alt="image" src="https://github.com/mahes-a/AzureDatabricksDataEngineering/assets/120069348/c7a27d7a-3dbf-4425-80bc-e4404b997b36">
 
 
